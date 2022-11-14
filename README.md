@@ -13,7 +13,7 @@ The two traffic lights at lane 2 can be green and the rest are red.
 
 The traffic light at lane 3 can be green and the rest are red.
 
-The traffic light at lane 4 can be green and the rest are red.
+The traffic light at lane 4 can be green and the rest are red
 
 
 ## The system we formally specify
