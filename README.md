@@ -16,24 +16,24 @@ The traffic light at lane 3 can be green and the rest are red.
 The traffic light at lane 4 can be green and the rest are red
 
 
-## The system we formally specify
+## The system we formally specify :
 
 ![image](https://user-images.githubusercontent.com/118050497/201738078-afc15838-9fe6-42b9-8db8-cced432ce4cd.png)
 
-## Tools
+## Tools :
 
 A tool that allows you to simulate the system
 
 https://apo.adrian-jagusch.de/
 
-## Open file
+## Open file :
 
 The Formal specification download link
 
 https://drive.google.com/file/d/1eugRcwZpHMONxEVwM3pQoj8eZ99cKc5v/view?usp=drivesdk
 
 
-## Petri Nets picture
+## Petri Nets picture :
 
 ![image](https://user-images.githubusercontent.com/118050497/201739968-53f3314c-e7ef-449c-ac43-15df9896b189.jpeg)
 
